@@ -23,3 +23,5 @@ Na lista de atividades, clique no checkbox ao lado da atividade para marcá-la c
 - **JavaScript:** Interação e manipulação de dados.
 - **Day.js:** Biblioteca para manipulação e formatação de datas.
 
+## Protótipo disponível para teste
+- https://planejador-de-viagens.vercel.app/
