@@ -7,8 +7,8 @@ Este é um planejador de viagens que permite aos usuários adicionar, visualizar
 **Adicionar atividade**
 - Digite o nome da atividade no campo "Qual a atividade?"
 - No próximo campo, selecione a data desejada.
-- Em seguida, selecione a hora desejada.
-- Clique no botão "Salvar atividade" para adicionar o novo registro à lista.
+- Em seguida, selecione o horário desejado.
+- Clique no botão "Salvar atividade" para adicionar o novo registro à lista.  
 **Concluir atividade**
 Na lista de atividades, clique no checkbox ao lado da atividade para marcá-la como concluída.
 
